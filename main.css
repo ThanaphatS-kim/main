@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+}
+.price{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 1%;
+    width: 400px;
+    height: 45px;
+    border-radius: 9px;
+}
+.button{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 115px;
+    height: 45px;
+    background-color: aquamarine;
+    border-radius: 9px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+ul{
+    border: 5px solid black;
+    border-radius: 18px;
+}
